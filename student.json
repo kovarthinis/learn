@@ -1,0 +1,34 @@
+{
+    "ko": {
+       "name": "kovarthini shanmugam",
+       "tamil": "89",
+       "english": "81",
+       "maths": "83",
+       "science": "83",
+       "social": "70"
+    },
+    "viki": {
+       "name": "vignesh chandran",
+       "tamil": "88",
+       "english": "75",
+       "maths": "89",
+       "science": "82",
+       "social": "63"
+    },
+    "jana": {
+       "name": "jana shanmugam",
+       "tamil": "90",
+       "english": "78",
+       "maths": "96",
+       "science": "92",
+       "social": "92"
+    },
+    "nithya": {
+       "name": "nithya venkatachalam",
+       "tamil": "80",
+       "english": "75",
+       "maths": "98",
+       "science": "100",
+       "social": "97"
+    }
+ }
